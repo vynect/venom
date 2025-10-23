@@ -16,3 +16,4 @@ export { PicTumb } from './pic-thumb';
 export { ChatStatus } from './chat-status';
 export { InterfaceChangeMode } from './Interface-mode';
 export * from './result';
+export * from './navigation';
