@@ -54,6 +54,6 @@
     "@types/ws": "^8.5.0",
     "@types/mime-types": "^2.1.4",
     "@types/qrcode-terminal": "^0.12.2",
-    "typescript": "^5.7.0"
+    "typescript": "^6.0.3"
   }
 }
